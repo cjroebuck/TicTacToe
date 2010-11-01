@@ -1,0 +1,51 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "NoughtsAndCrossesSite", "NoughtsAndCrossesSite\", "{92844902-259F-4BBB-8842-ECA58B490D20}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.0"
+		Debug.AspNetCompiler.VirtualPath = "/NoughtsAndCrossesSite"
+		Debug.AspNetCompiler.PhysicalPath = "NoughtsAndCrossesSite\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\NoughtsAndCrossesSite\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/NoughtsAndCrossesSite"
+		Release.AspNetCompiler.PhysicalPath = "NoughtsAndCrossesSite\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\NoughtsAndCrossesSite\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "22567"
+		ProjOutputReferences = "{2292bf95-52d4-4e19-95f5-97041b706821}|ClientBin|false;"
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NoughtsAndCrosses", "NoughtsAndCrosses\NoughtsAndCrosses.csproj", "{2292BF95-52D4-4E19-95F5-97041B706821}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SilverlightCommon", "SilverlightCommon\SilverlightCommon.csproj", "{DB20EEBF-DE1D-4C3C-8BA2-2D8B9724FBED}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{92844902-259F-4BBB-8842-ECA58B490D20}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{92844902-259F-4BBB-8842-ECA58B490D20}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{92844902-259F-4BBB-8842-ECA58B490D20}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{92844902-259F-4BBB-8842-ECA58B490D20}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2292BF95-52D4-4E19-95F5-97041B706821}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2292BF95-52D4-4E19-95F5-97041B706821}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2292BF95-52D4-4E19-95F5-97041B706821}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2292BF95-52D4-4E19-95F5-97041B706821}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DB20EEBF-DE1D-4C3C-8BA2-2D8B9724FBED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DB20EEBF-DE1D-4C3C-8BA2-2D8B9724FBED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DB20EEBF-DE1D-4C3C-8BA2-2D8B9724FBED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DB20EEBF-DE1D-4C3C-8BA2-2D8B9724FBED}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

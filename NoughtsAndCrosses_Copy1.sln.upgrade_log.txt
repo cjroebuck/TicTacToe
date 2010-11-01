@@ -1,0 +1,16 @@
+-----------------------------------------------------------------------------------------------------------------------------------------
+C:\Users\Chris\Documents\Visual Studio 2010\Projects\NoughtsAndCrosses\NoughtsAndCrosses_Copy1\NoughtsAndCrosses\NoughtsAndCrosses.csproj
+-----------------------------------------------------------------------------------------------------------------------------------------
+Updating <Include> of <Reference Include="Microsoft.Expression.Interactions, Version=2.0.5.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35"> from 'Microsoft.Expression.Interactions, Version=2.0.5.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35' to 'Microsoft.Expression.Interactions'
+Updating <Include> of <Reference Include="System.Windows.Interactivity, Version=2.0.5.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35"> from 'System.Windows.Interactivity, Version=2.0.5.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35' to 'System.Windows.Interactivity'
+Updating <ExpressionBlendVersion> value from '3.0.1927.0' to '4.0.20901.0'
+Saving file
+
+
+--------------------------------------------------------------------------------------------------------------------------
+C:\Users\Chris\Documents\Visual Studio 2010\Projects\NoughtsAndCrosses\NoughtsAndCrosses_Copy1\NoughtsAndCrosses_Copy1.sln
+--------------------------------------------------------------------------------------------------------------------------
+Setting solution format header to 'Microsoft Visual Studio Solution File, Format Version 11.00'
+Saving file
+
+
